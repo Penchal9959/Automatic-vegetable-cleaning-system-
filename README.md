@@ -17,7 +17,7 @@ Components:
 2. Relay module
 3. conveyor belt
 4. IR Sensors
-5. 12V DC power supply
+5. 12 V DC power supply
 6. submersible motor
 7. bread board
 8. liquid container
